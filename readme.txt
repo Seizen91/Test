@@ -5,4 +5,5 @@ Git tracks changes of files.
 Welcome to use Git.
 Creating a new branch is quick AND simple.
 Add merge.
+Hello, git.
 
